@@ -10,33 +10,19 @@
             "longitude": -122.308054,
             "latitude": 47.655971
         },
-        "description": "12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890"
+        "description": "123456789012345678"
     },
     {
         "id":1002,
         "title":"The Last Wish",
         "imageName":"The Last Wish",
         "author": "Andrzej Sapkowski",
-        "content":"The mare flattened her ears against her skull and snorted, throwing up earth with her hooves; she didn’t want to go.  Geralt didn’t calm her with the Sign; he jumped from the saddle and threw the reins over the horse’s head.  He no longer had his old sword in its lizard-skin sheath on his back; its place was filled with a shining, beautiful weapon with a cruciform and slender, well-weighted hilt, ending in a spherical pommel made of white metal.\nThis time the gate didn’t open for him.  It was already open, just as he had left it.\nHe heard singing.  He didn’t understand the words; he couldn’t even identify the language.",
+        "content":"The mare flattened her ears against her skull and snorted, throwing up earth with her hooves; she didn’t want to go.  Geralt didn’t calm her with the Sign; he jumped from the saddle and threw the reins over the horse’s head.",
         "category":"NOVEL",
         "coordinates": {
             "longitude": -122.308054,
             "latitude": 47.655971
         },
-        "description": "12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890"
-    },
-    {
-        "id":1003,
-        "title":"Do Not Stand At My Grave And Weep Do Not Stand At My Grave And Weep Do Not Stand At My Grave And Weep",
-        "imageName":"Do Not Stand At My Grave And Weep",
-        "author": "Elizabeth Frye",
-        "content":"Do not stand at my grave and weep \n I am not there; I do not sleep. \n I am a thousand winds that blow,\n I am the diamond glints on snow,\n I am the sun on ripened grain,\n I am the gentle autumn rain.\n When you awaken in the morning's hush\n I am the swift uplifting rush\n Of quiet birds in circled flight.\n I am the soft stars that shine at night.\n Do not stand at my grave and cry,\n I am not there; I did not die.",
-        "category":"POEM",
-        "coordinates": {
-            "longitude": -122.308054,
-            "latitude": 47.655971
-        },
-        "description": "description description description description description description description"
+        "description": "1234567890123"
     }
-    
 ]
