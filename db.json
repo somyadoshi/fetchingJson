@@ -1,11 +1,11 @@
 [
     {
         "id":1001,
-        "title":"Do Not Stand At My Grave And Weep",
-        "imageName":"Do Not Stand At My Grave And Weep",
+        "title":"Do Not Stand",
+        "imageName":"Do Not Stand",
         "author": "Elizabeth Frye",
-        "content":"Do not stand at my grave and weep \n I am not there; I do not sleep. \n I am a thousand winds that blow",
+        "content":"Do not stand at my grave and weep",
         "category":"POEM",
-        "description": "123456789012345678"
+        "description": "12345"
     }
 ]
