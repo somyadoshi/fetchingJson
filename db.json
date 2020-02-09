@@ -1,11 +1,9 @@
-[
-    {
-        "id":1001,
-        "title":"Do Not Stand",
-        "imageName":"Do Not Stand",
-        "author": "Elizabeth Frye",
-        "content":"Do not stand at my grave and weep",
-        "category":"POEM",
-        "description": "12345"
-    }
-]
+{
+    "id":1001,
+    "title":"Do Not Stand",
+    "imageName":"Do Not Stand",
+    "author": "Elizabeth Frye",
+    "content":"Do not stand at my grave and weep",
+    "category":"POEM",
+    "description": "12345"
+}
